@@ -1,0 +1,236 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2024-01-25T14:29:22.816Z",
+        "line": 3,
+        "name": "To select the men button",
+        "description": "",
+        "id": "limeroad-order;to-select-the-men-button",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 681157700,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User enter the url \"https://www.limeroad.com/\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"https://www.limeroad.com/\"",
+                  "offset": 19
+                }
+              ],
+              "location": "com.step.StepDefinition.user_enter_the_url(java.lang.String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 3808625600,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User click on men",
+            "match": {
+              "location": "com.step.StepDefinition.user_click_on_men()"
+            },
+            "keyword": "When "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Regression"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2024-01-25T14:29:27.493Z",
+        "line": 8,
+        "name": "To Select The Mencategory",
+        "description": "",
+        "id": "limeroad-order;to-select-the-mencategory",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 273818000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "User Click On Mencategory",
+            "match": {
+              "location": "com.step.StepDefinition.user_click_on_mencategory()"
+            },
+            "keyword": "Given "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Regression"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2024-01-25T14:29:27.773Z",
+        "line": 11,
+        "name": "To select the jeans",
+        "description": "",
+        "id": "limeroad-order;to-select-the-jeans",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 2593816500,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "User Click on Jeans",
+            "match": {
+              "location": "com.step.StepDefinition.user_click_on_jeans()"
+            },
+            "keyword": "Given "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Regression"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2024-01-25T14:29:30.380Z",
+        "line": 14,
+        "name": "To Select The HighPrice",
+        "description": "",
+        "id": "limeroad-order;to-select-the-highprice",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 2052719100,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "User Click On HighPrice",
+            "match": {
+              "location": "com.step.StepDefinition.user_click_on_high_price()"
+            },
+            "keyword": "Given "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Regression"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2024-01-25T14:29:32.436Z",
+        "line": 17,
+        "name": "To Select The Pant",
+        "description": "",
+        "id": "limeroad-order;to-select-the-pant",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 2064560400,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "User click on Pant",
+            "match": {
+              "location": "com.step.StepDefinition.user_click_on_pant()"
+            },
+            "keyword": "Given "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Regression"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2024-01-25T14:29:34.504Z",
+        "line": 20,
+        "name": "TO Select The Size Of The Pant",
+        "description": "",
+        "id": "limeroad-order;to-select-the-size-of-the-pant",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 2059570900,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "User Click On Size Of The Pant",
+            "match": {
+              "location": "com.step.StepDefinition.user_click_on_size_of_the_pant()"
+            },
+            "keyword": "Given "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Regression"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2024-01-25T14:29:36.569Z",
+        "line": 23,
+        "name": "TO Select The Add TO Cart",
+        "description": "",
+        "id": "limeroad-order;to-select-the-add-to-cart",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 2107373500,
+              "status": "passed"
+            },
+            "line": 24,
+            "name": "User Click On Add To Cart",
+            "match": {
+              "location": "com.step.StepDefinition.user_click_on_add_to_cart()"
+            },
+            "keyword": "Given "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Regression"
+          }
+        ]
+      }
+    ],
+    "name": "Limeroad order",
+    "description": "",
+    "id": "limeroad-order",
+    "keyword": "Feature",
+    "uri": "file:src/test/java/com/feature/lime.feature",
+    "tags": [
+      {
+        "name": "@Regression",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  }
+]
